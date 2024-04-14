@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{17996C01-2F8D-407B-A4AF-B7B3256DCAD2}|Default">
+  <MonoDevelop.Ide.ItemProperties.NZWalks.API PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="NZWalks.API/Controllers/WalksController.cs">
+    <Files>
+      <File FileName="NZWalks.API/Program.cs" Line="28" Column="22" />
+      <File FileName="NZWalks.API/Repository/IWalkRepository.cs" Line="8" Column="44" />
+      <File FileName="NZWalks.API/Repository/WalkRepository.cs" Line="10" Column="1" />
+      <File FileName="NZWalks.API/Controllers/RegionsController.cs" Line="1" Column="1" />
+      <File FileName="NZWalks.API/Controllers/WalksController.cs" Line="26" Column="1" />
+      <File FileName="NZWalks.API/Mapping/AutoMapperProfiles.cs" Line="18" Column="47" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="NZWalks" expanded="True">
+            <Node name="NuGet.Config files" expanded="True" />
+            <Node name="NZWalks.API" expanded="True">
+              <Node name="Controllers" expanded="True">
+                <Node name="WalksController.cs" selected="True" />
+              </Node>
+              <Node name="Data" expanded="True" />
+              <Node name="Mapping" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Domian" expanded="True" />
+                <Node name="DTO" expanded="True" />
+              </Node>
+              <Node name="Repository" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
